@@ -179,11 +179,11 @@ body {
   transform: rotate(93deg);
 }
 .deg-ten {
-  transform: rotate(62deg);
+  transform: rotate(57deg);
 }
 .deg-eleven {
-  transform: rotate(30deg);
+  transform: rotate(26deg);
 }
 .deg-twelve {
-  transform: rotate(0deg);
+  transform: rotate(360deg);
 }
