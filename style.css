@@ -33,15 +33,6 @@ body {
   position: absolute;
   z-index: 1000;
 }
-.clock::before {
-  height: 15px;
-  width: 15px;
-  content: "";
-  border-radius: 50%;
-  background-color: rgba(255, 255, 255, 0.9);
-  position: absolute;
-  z-index: 1000;
-}
 
 .clock .hour,
 .clock .miniute,
